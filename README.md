@@ -1,0 +1,1 @@
+# synec_java_test
